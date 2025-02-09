@@ -77,7 +77,7 @@ Para a terceira edição, as principais mudanças são:
 
 * [Clique aqui para executar o Capítulo 12 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap12.ipynb)
 
-**Capítulo 13: Arquivos e Bases de Dados**
+**Capítulo 13: Arquivos e Bancos de Dados**
 
 * [Clique aqui para executar o Capítulo 13 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap13.ipynb)
 
