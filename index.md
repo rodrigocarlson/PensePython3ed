@@ -16,7 +16,7 @@ Uma versão em língua portuguesa da 3ª edição foi publicada pela editora Nov
 
 Para a terceira edição, as principais mudanças são:
 
-* O livro agora está todo em Jupyter notebooks, então você pode ler o texto, executar o código e trabalhar nos exercícios -- tudo em um só lugar. Usando os links abaixo, você pode executar os notebooks no Colab, então não precisa instalar nada para começar.
+* O livro agora está todo em Jupyter *notebooks*, então você pode ler o texto, executar o código e trabalhar nos exercícios -- tudo em um só lugar. Usando os links abaixo, você pode executar os *notebooks* no Colab, então não precisa instalar nada para começar.
 
 * O texto foi substancialmente revisado e alguns capítulos foram reordenados. Há mais exercícios agora, e acho que muitos deles estão melhores.
 
@@ -111,7 +111,7 @@ Para a terceira edição, as principais mudanças são:
 
 Se você estiver ensinando com este livro, aqui estão alguns recursos que você pode achar úteis.
 
-* Você pode baixar notebooks com soluções [deste repositório GitHub](https://github.com/AllenDowney/ThinkPythonSolutions/tree/v3/soln) (em inglês).
+* Você pode baixar *notebooks* com soluções [deste repositório GitHub](https://github.com/AllenDowney/ThinkPythonSolutions/tree/v3/soln) (em inglês).
 
 * Questionários para cada capítulo e um questionário somativo para o livro inteiro estão disponíveis mediante solicitação (em inglês para o autor do livro).
 
