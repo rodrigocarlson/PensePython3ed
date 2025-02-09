@@ -117,6 +117,6 @@ Se você estiver ensinando com este livro, aqui estão alguns recursos que você
 
 * *Teaching and Learning with Jupyter* é um livro online com sugestões para usar o Jupyter efetivamente na sala de aula. Você pode [ler o livro aqui](https://jupyter4edu.github.io/jupyter-edu-book) (em inglês).
 
-* Uma das melhores maneiras de usar *notebooks* na sala de aula é a codificação ao vivo, onde um instrutor escreve o código e os alunos seguem em seus próprios *notebooks*. Para aprender sobre codificação ao vivo -- e muitos outros conselhos excelentes sobre ensino de programação -- eu recomendo o treinamento de professores fornecido por *The Carpentries*, [que você pode ler aqui](https://carpentries.github.io/instructor-training).
+* Uma das melhores maneiras de usar *notebooks* na sala de aula é a codificação ao vivo, onde um instrutor escreve o código e os alunos seguem em seus próprios *notebooks*. Para aprender sobre codificação ao vivo -- e muitos outros conselhos excelentes sobre ensino de programação -- eu recomendo o treinamento de professores fornecido por *The Carpentries*, [que você pode ler aqui](https://carpentries.github.io/instructor-training) (em inglês).
 
 * Para cada capítulo, criei um *notebook* "em branco" com o texto original, mas a maior parte do código removido. Esses *notebooks* são úteis para fazer exercícios de acompanhamento em que os alunos preenchem os espaços em branco. [Os links para os *notebooks* em branco estão aqui](https://allendowney.github.io/ThinkPython/blank.html) (em inglês).
