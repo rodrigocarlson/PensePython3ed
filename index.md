@@ -4,7 +4,6 @@ Esta é uma tradução livre do livro *Think Python* de Allen B. Downey realizad
 
 *Pense Python* é uma introdução ao Python para pessoas que nunca programaram antes -- ou para pessoas que tentaram e tiveram dificuldades.
 Você pode adquirir versões impressas e e-books da terceira edição (em inglês) em
-
 [Bookshop.org](https://bookshop.org/a/98697/9781098155438) and
 [Amazon](https://www.amazon.com/_/dp/1098155432?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20&_encoding=UTF8&tag=greenteapre01-20&linkCode=ur2&linkId=e2a529f94920295d27ec8a06e757dc7c&camp=1789&creative=9325).
 
@@ -13,7 +12,7 @@ Você pode adquirir versões impressas e e-books da terceira edição (em inglê
  [Aqui está a página inicial do livro na Green Tea Press](https://greenteapress.com/wp/think-python-3rd-edition/).
 
 Uma versão em língua portuguesa da 3ª edição foi publicada pela editora Novatec
-[NOvatec](https://novatec.com.br/livros/pense-em-python-3ed/)
+[Novatec](https://novatec.com.br/livros/pense-em-python-3ed/)
 
 Para a terceira edição, as principais mudanças são:
 
