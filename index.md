@@ -25,6 +25,9 @@ Para a terceira edição, as principais mudanças são:
 
 ## Os *notebooks*
 
+**Prefaćio**
+* [teste](capitulos/chap00.ipynb)
+
 **Capítulo 1: Programação como uma forma de pensar**
 
 * [Clique aqui para executar o Capítulo 1 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap01.ipynb)
