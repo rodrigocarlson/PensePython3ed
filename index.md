@@ -4,7 +4,7 @@ Esta é uma tradução livre do livro *Think Python* de Allen B. Downey realizad
 
 *Pense Python* é uma introdução ao Python para pessoas que nunca programaram antes -- ou para pessoas que tentaram e tiveram dificuldades.
 Você pode adquirir versões impressas e e-books da terceira edição (em inglês) em
-[Bookshop.org](https://bookshop.org/a/98697/9781098155438) and
+[Bookshop.org](https://bookshop.org/a/98697/9781098155438) e
 [Amazon](https://www.amazon.com/_/dp/1098155432?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20&_encoding=UTF8&tag=greenteapre01-20&linkCode=ur2&linkId=e2a529f94920295d27ec8a06e757dc7c&camp=1789&creative=9325).
 
 <img width="250" src="https://raw.githubusercontent.com/AllenDowney/ThinkPython/v3/think_python_3e.jpg" style="float: right; margin-left: 10px;">
