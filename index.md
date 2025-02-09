@@ -11,8 +11,7 @@ Você pode adquirir versões impressas e e-books da terceira edição (em inglê
 
  [Aqui está a página inicial do livro na Green Tea Press](https://greenteapress.com/wp/think-python-3rd-edition/).
 
-Uma versão em língua portuguesa da 3ª edição foi publicada pela editora Novatec
-[Novatec](https://novatec.com.br/livros/pense-em-python-3ed/)
+Uma versão em língua portuguesa da 3ª edição foi publicada pela editora [Novatec](https://novatec.com.br/livros/pense-em-python-3ed/)
 
 Para a terceira edição, as principais mudanças são:
 
