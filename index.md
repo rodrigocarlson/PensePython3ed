@@ -27,83 +27,83 @@ Para a terceira edição, as principais mudanças são:
 
 **Capítulo 1: Programação como uma forma de pensar**
 
-* [Clique aqui para executar o Capítulo 1 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb)
+* [Clique aqui para executar o Capítulo 1 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap01.ipynb)
 
 
 **Capítulo 2: Variáveis e Declarações**
 
-* [Clique aqui para executar o Capítulo 2 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap02.ipynb)
+* [Clique aqui para executar o Capítulo 2 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap02.ipynb)
 
 
 **Capítulo 3: Funções**
 
-* [Clique aqui para executar o Capítulo 3 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap03.ipynb)
+* [Clique aqui para executar o Capítulo 3 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap03.ipynb)
 
 
 **Capítulo 4: Funções e Interfaces**
 
-* [Clique aqui para executar o Capítulo 4 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap04.ipynb)
+* [Clique aqui para executar o Capítulo 4 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap04.ipynb)
 
 
 **Capítulo 5: Condicionais e Recursão**
 
-* [Clique aqui para executar o Capítulo 5 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap05.ipynb)
+* [Clique aqui para executar o Capítulo 5 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap05.ipynb)
 
 **Capítulo 6: Valores Devolvidos**
 
-* [Clique aqui para executar o Capítulo 6 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap06.ipynb)
+* [Clique aqui para executar o Capítulo 6 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap06.ipynb)
 
 **Capítulo 7: Iteração e Busca**
 
-* [Clique aqui para executar o Capítulo 7 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap07.ipynb)
+* [Clique aqui para executar o Capítulo 7 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap07.ipynb)
 
 **Capítulo 8: *Strings* e Expressões Regulares**
 
-* [Clique aqui para executar o Capítulo 8 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap08.ipynb)
+* [Clique aqui para executar o Capítulo 8 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap08.ipynb)
 
 **Capítulo 9: Listas**
 
-* [Clique aqui para executar o Capítulo 9 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap09.ipynb)
+* [Clique aqui para executar o Capítulo 9 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap09.ipynb)
 
 **Capítulo 10: Dicionários**
 
-* [Clique aqui para executar o Capítulo 10 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap10.ipynb)
+* [Clique aqui para executar o Capítulo 10 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap10.ipynb)
 
 **Capítulo 11: Tuplas**
 
-* [Clique aqui para executar o Capítulo 11 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap11.ipynb)
+* [Clique aqui para executar o Capítulo 11 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap11.ipynb)
 
 **Capítulo 12: Análise de Texto e Geração**
 
-* [Clique aqui para executar o Capítulo 12 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap12.ipynb)
+* [Clique aqui para executar o Capítulo 12 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap12.ipynb)
 
 **Capítulo 13: Arquivos e Bases de Dados**
 
-* [Clique aqui para executar o Capítulo 13 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap13.ipynb)
+* [Clique aqui para executar o Capítulo 13 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap13.ipynb)
 
 **Capítulo 14: Classes e Funções**
 
-* [Clique aqui para executar o Capítulo 14 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap14.ipynb)
+* [Clique aqui para executar o Capítulo 14 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap14.ipynb)
 
 **Capítulo 15: Classes e Métodos**
 
-* [Clique aqui para executar o Capítulo 15 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap15.ipynb)
+* [Clique aqui para executar o Capítulo 15 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap15.ipynb)
 
 **Capítulo 16: Classes e Objetos**
 
-* [Clique aqui para executar o Capítulo 16 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap16.ipynb)
+* [Clique aqui para executar o Capítulo 16 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap16.ipynb)
 
 **Capítulo 17: Herança**
 
-* [Clique aqui para executar o Capítulo 17 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap17.ipynb)
+* [Clique aqui para executar o Capítulo 17 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap17.ipynb)
 
 **Capítulo 18: Extras de Python**
 
-* [Clique aqui para executar o Capítulo 18 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap18.ipynb)
+* [Clique aqui para executar o Capítulo 18 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap18.ipynb)
 
 **Capítulo 19: Pensamentos Finais**
 
-* [Clique aqui para executar o Capítulo 19 no Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap19.ipynb)
+* [Clique aqui para executar o Capítulo 19 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap19.ipynb)
 
 
 ## Recursos para professores
