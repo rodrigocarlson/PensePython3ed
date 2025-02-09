@@ -121,10 +121,12 @@ Se você estiver ensinando com este livro, aqui estão alguns recursos que você
 * Para cada capítulo, criei um *notebook* "em branco" com o texto original, mas a maior parte do código removido. Esses *notebooks* são úteis para fazer exercícios de acompanhamento em que os alunos preenchem os espaços em branco. [Os links para os *notebooks* em branco estão aqui](https://allendowney.github.io/ThinkPython/blank.html) (em inglês).
 
 Copyright 2024 [Allen B. Downey](https://allendowney.com/) (versão original)
+
 Copyright 2025 [Rodrigo Castelan Carlson](https://rodrigocarlson.paginas.ufsc.br/) (desta versão)
 
 Foram preservadas as mesmas licenças da versão original.
-Licença dos códigos: [MIT License](https://mit-license.org/)
-Licença dos textos: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+Licença dos códigos: [MIT License](https://mit-license.org/)
+
+Licença dos textos: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
