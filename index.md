@@ -36,7 +36,7 @@ Para a terceira edição, as principais mudanças são:
   
     * [Clique aqui para executar a introdução ao Jupyter *notebook* no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/jupyter_intro.ipynb)
 
-**Capítulo 2: Variáveis e Declarações**
+**Capítulo 2: Variáveis e Instruções**
 
 * [Clique aqui para executar o Capítulo 2 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap02.ipynb)
 
