@@ -79,7 +79,7 @@ Para a terceira edição, as principais mudanças são:
 
 * [Clique aqui para executar o Capítulo 11 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap11.ipynb)
 
-**Capítulo 12: Análise de Texto e Geração**
+**Capítulo 12: Análise e Geração de Texto**
 
 * [Clique aqui para executar o Capítulo 12 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap12.ipynb)
 
