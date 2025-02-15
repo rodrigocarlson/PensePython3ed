@@ -107,7 +107,7 @@ Para a terceira edição, as principais mudanças são:
 
 * [Clique aqui para executar o Capítulo 18 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap18.ipynb)
 
-**Capítulo 19: Pensamentos Finais**
+**Capítulo 19: Considerações Finais**
 
 * [Clique aqui para executar o Capítulo 19 no Colab](https://colab.research.google.com/github/rodrigocarlson/PensePython3ed/blob/main/capitulos/chap19.ipynb)
 
