@@ -116,7 +116,7 @@ Para a terceira edição, as principais mudanças são:
 
 Se você estiver ensinando com este livro, aqui estão alguns recursos que você pode achar úteis.
 
-* Você pode baixar *notebooks* com soluções deste [repositório GitHub](https://github.com/rodrigocarlson/PensePython3ed/tree/f16da02c9133b36306ba40eb92955286ad552237/solucoes) (em português) ou [deste repositório GitHub](https://github.com/AllenDowney/ThinkPythonSolutions/tree/v3/soln) (em inglês).
+* Você pode baixar *notebooks* com soluções [deste repositório GitHub](https://github.com/rodrigocarlson/PensePython3ed/tree/f16da02c9133b36306ba40eb92955286ad552237/solucoes) (em português) ou [deste repositório GitHub](https://github.com/AllenDowney/ThinkPythonSolutions/tree/v3/soln) (em inglês).
 
 * Questionários para cada capítulo e um questionário somativo para o livro inteiro estão disponíveis mediante solicitação (em inglês para o autor do livro).
 
