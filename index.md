@@ -116,7 +116,7 @@ Para a terceira edição, as principais mudanças são:
 
 Se você estiver ensinando com este livro, aqui estão alguns recursos que você pode achar úteis.
 
-* Você pode baixar *notebooks* com soluções [deste repositório GitHub](https://github.com/AllenDowney/ThinkPythonSolutions/tree/v3/soln) (em inglês).
+* Você pode baixar *notebooks* com soluções deste [repositório GitHub](https://github.com/rodrigocarlson/PensePython3ed/tree/f16da02c9133b36306ba40eb92955286ad552237/solucoes) (em português) ou [deste repositório GitHub](https://github.com/AllenDowney/ThinkPythonSolutions/tree/v3/soln) (em inglês).
 
 * Questionários para cada capítulo e um questionário somativo para o livro inteiro estão disponíveis mediante solicitação (em inglês para o autor do livro).
 
@@ -124,7 +124,7 @@ Se você estiver ensinando com este livro, aqui estão alguns recursos que você
 
 * Uma das melhores maneiras de usar *notebooks* na sala de aula é a codificação ao vivo, em que um instrutor escreve o código e os alunos seguem em seus próprios *notebooks*. Para aprender sobre codificação ao vivo -- e muitos outros conselhos excelentes sobre ensino de programação -- eu recomendo o treinamento de professores fornecido por *The Carpentries*, [que você pode ler aqui](https://carpentries.github.io/instructor-training) (em inglês).
 
-* Para cada capítulo, criei um *notebook* "em branco" com o texto original, mas a maior parte do código removido. Esses *notebooks* são úteis para fazer exercícios de acompanhamento em que os alunos preenchem os espaços em branco. [Os links para os *notebooks* em branco estão aqui](https://allendowney.github.io/ThinkPython/blank.html) (em inglês).
+* Para cada capítulo, criei um *notebook* "em branco" com o texto original, mas a maior parte do código removido. Esses *notebooks* são úteis para fazer exercícios de acompanhamento em que os alunos preenchem os espaços em branco. Os links para os *notebooks* em branco estão [aqui](https://github.com/rodrigocarlson/PensePython3ed/tree/f16da02c9133b36306ba40eb92955286ad552237/brancos) (em português) ou [aqui](https://allendowney.github.io/ThinkPython/blank.html) (em inglês).
 
 Copyright 2024 [Allen B. Downey](https://allendowney.com/) (versão original)
 
