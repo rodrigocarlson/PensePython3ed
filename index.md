@@ -118,7 +118,7 @@ Se você estiver ensinando com este livro, aqui estão alguns recursos que você
 
 * Você pode baixar *notebooks* com soluções [deste repositório GitHub](https://github.com/rodrigocarlson/PensePython3ed/tree/f16da02c9133b36306ba40eb92955286ad552237/solucoes) (em português) ou [deste repositório GitHub](https://github.com/AllenDowney/ThinkPythonSolutions/tree/v3/soln) (em inglês).
 
-* Questionários para cada capítulo e um questionário somativo para o livro inteiro estão disponíveis mediante solicitação (em inglês para o autor do livro).
+* Questionários para cada capítulo e um questionário sumativo para o livro inteiro estão disponíveis mediante solicitação (em português para o tradutor e em inglês para o autor do livro).
 
 * *Teaching and Learning with Jupyter* é um livro online com sugestões para usar o Jupyter efetivamente na sala de aula. Você pode [ler o livro aqui](https://jupyter4edu.github.io/jupyter-edu-book) (em inglês).
 
