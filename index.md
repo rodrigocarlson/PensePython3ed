@@ -126,6 +126,8 @@ Se você estiver ensinando com este livro, aqui estão alguns recursos que você
 
 * Para cada capítulo, criei um *notebook* "em branco" com o texto original, mas a maior parte do código removido. Esses *notebooks* são úteis para fazer exercícios de acompanhamento em que os alunos preenchem os espaços em branco. Os links para os *notebooks* em branco estão [aqui](https://github.com/rodrigocarlson/PensePython3ed/tree/f16da02c9133b36306ba40eb92955286ad552237/brancos) (em português) ou [aqui](https://allendowney.github.io/ThinkPython/blank.html) (em inglês).
 
+Colaboraram com a identificação de erros: Victor Ramos Mello.
+
 Copyright 2024 [Allen B. Downey](https://allendowney.com/) (versão original)
 
 Copyright 2025 [Rodrigo Castelan Carlson](https://rodrigocarlson.paginas.ufsc.br/) (desta versão)
